@@ -1,0 +1,31 @@
+__pycache__/
+edu_fineweb10B/
+hellaswag/
+wandb/
+<<<<<<< HEAD
+<<<<<<< HEAD
+saved_final_models/
+=======
+>>>>>>> hf-models-branch
+.DS_Store
+test*
+__pycache__/
+gpt2_ak_coding_test.py
+github_ssh*
+train_val_loss.png
+slurm*
+edu_fineweb10B/
+=======
+*/__pycache__/
+*/check_issue.py
+dataset/edu_fineweb10B/
+secret keys/
+.DS_Store
+github_ssh*
+gpt2-venv/
+slurm*
+model.pth
+gpt2_ak_coding_test.py
+log/
+test*
+saved_final_models/
